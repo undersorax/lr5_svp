@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\nikbond\source\repos\SVP_LR5__________\SVP_LR5__________\Source.cpp(126,30): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  SVP_LR5__________.vcxproj -> C:\Users\nikbond\source\repos\SVP_LR5__________\x64\Debug\SVP_LR5__________.exe
